@@ -10,4 +10,4 @@ An open-source cms engine focusing on flexibility and security
 1. Whitelist email invitation for admins
 1. Website on-page editing via JavaScript plugins
 
-[logo]: ./cow.png "Herdcress CMS Engine"
+[logo]: ./cow-4095241_1920.png "Herdcress CMS Engine"
