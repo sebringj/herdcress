@@ -1,5 +1,6 @@
 # Herdcress
 An open-source cms engine focusing on flexibility and security
+![logo]
 
 ## Features
 1. File Store Plugin Model (out-of-box local, S3)
@@ -8,3 +9,5 @@ An open-source cms engine focusing on flexibility and security
 1. Oauth2 login via node passport modules
 1. Whitelist email invitation for admins
 1. Website on-page editing via JavaScript plugins
+
+[logo]: ./cow.png "Herdcress CMS Engine"
