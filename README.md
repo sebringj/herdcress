@@ -1,16 +1,16 @@
 # Herdcress
-An open-source cms engine focusing on flexibility and security
+An open source cms engine focusing on flexibility and security built with node.js and yes, it was intentionally named this to rythme with "wordpress" but inpired by its flaws to make something entirely different and hopefully better.
 ![logo]
 
-## Features
-1. Compatible with any website backend
-1. Editor collaboration
-1. Scheduled content
-1. File Store Plugin Model (out-of-box local, S3)
-1. Secure Plugin model via iframe/postmessage
-1. Oauth2 login via node passport modules
-1. Whitelist email invitation for admins
-1. Website on-page editing via JavaScript plugins
+## Goals and Features
+1. Consumable by any website backend (Socket and REST w/ Hooks API)
+1. Realtime Updates and Editor collaboration via https://github.com/socketio/socket.io
+1. Schedulable content
+1. File Storage via https://github.com/Slynova-Org/flydrive
+1. Editor Plugin model via iframe/postmessage
+1. Flexible Oauth2 via https://www.npmjs.com/package/passport
+1. Simple Whitelist email invitations for admins
+1. Website on-page editing via iframe/postmessage JavaScript plugin
 1. Content versioning
 1. Internationalization
 1. SEO Tools
