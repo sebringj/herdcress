@@ -1,5 +1,5 @@
 # Herdcress
-An open source cms engine focusing on flexibility and security built with node.js and yes, it was intentionally named this to rythme with "wordpress" but inpired by its flaws to make something entirely different and hopefully better.
+An open source cms engine focusing on flexibility and security built with node.js and yes, it was intentionally named this to rhyme with "wordpress" but inpired by its flaws to make something entirely different and hopefully better.
 ![logo]
 
 ## Goals and Features
